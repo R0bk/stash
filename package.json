@@ -1,5 +1,5 @@
 {
-  "name": "@r0bk/stash",
+  "name": "stashy",
   "author": "Rob Kopel",
   "version": "1.0.0",
   "description": "Quick and Easy Local Cache of almost all JS object types",
@@ -16,11 +16,13 @@
     "simple",
     "file-upload",
     "file",
+    "stashy",
+    "stash",
     "input"
   ],
   "homepage": "https://github.com/R0bk/stash",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/R0bk/stash.git"
-  },
+  }
 }
