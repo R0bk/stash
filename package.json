@@ -1,0 +1,26 @@
+{
+  "name": "@r0bk/stash",
+  "author": "Rob Kopel",
+  "version": "1.0.0",
+  "description": "Quick and Easy Local Cache of almost all JS object types",
+  "license": "MIT",
+  "repository": "R0bk/stash",
+  "main": "index.js",
+  "module": "index.js",
+  "keywords": [
+    "cache",
+    "local",
+    "indexdb",
+    "localstorage",
+    "tiny",
+    "simple",
+    "file-upload",
+    "file",
+    "input"
+  ],
+  "homepage": "https://github.com/R0bk/stash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0bk/stash.git"
+  },
+}
