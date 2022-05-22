@@ -33,7 +33,9 @@ set(stashRef, key, value)
 ```js
 import { get } from 'stash'
 
-const cachedValue = get(stashRef, key)
+get(stashRef, key).then(value => {
+  console.log('My value is:', value)
+})
 ````
 
 ### Clear the stash
